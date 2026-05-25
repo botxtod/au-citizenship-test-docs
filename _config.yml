@@ -1,0 +1,9 @@
+title: AU Citizenship Test 2026
+description: Public documentation for the AU Citizenship Test 2026 mobile app — privacy policy and support links.
+theme: jekyll-theme-minimal
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
